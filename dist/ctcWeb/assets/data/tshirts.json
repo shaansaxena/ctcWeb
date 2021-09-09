@@ -1,0 +1,58 @@
+{
+  "Tshirts": [
+    {
+      "pId": "p001",
+      "url": "assets/images/tshirt1.jpeg",
+      "price": 199,
+      "brand": "United Colors of Benetton.",
+      "size": "M",
+      "name": "Solid Men Polo Neck Red T-Shirt",
+      "date": "18-06-2021"
+    },
+    {
+      "pId": "p002",
+      "url": "assets/images/tshirt2.jpeg",
+      "price": 299,
+      "brand": "United Colors of Benetton.",
+      "size": "M",
+      "name": "Printed Men Round Neck Beige T-hirt",
+      "date": "08-06-2021"
+    },
+    {
+      "pId": "p003",
+      "url": "assets/images/tshirt3.jpeg",
+      "price": 189,
+      "brand": "Aelomart",
+      "size": "XL",
+      "name": "striped Men Round Neck Black, Light Green T-Shirt",
+      "date": "18-05-2021"
+    },
+    {
+      "pId": "p004",
+      "url": "assets/images/tshirt4.jpeg",
+      "price": 199,
+      "brand": "United Colors of Benetton.",
+      "size": "M",
+      "name": "Solid Men Polo Neck Red T-Shirt",
+      "date": "18-06-2021"
+    },
+    {
+      "pId": "p005",
+      "url": "assets/images/tshirt5.jpeg",
+      "price": 299,
+      "brand": "United Colors of Benetton.",
+      "size": "M",
+      "name": "Printed Men Round Neck Beige T-hirt",
+      "date": "08-06-2021"
+    },
+    {
+      "pId": "p006",
+      "url": "assets/images/tshirt6.jpeg",
+      "price": 189,
+      "brand": "Aelomart",
+      "size": "XL",
+      "name": "striped Men Round Neck Black, Light Green T-Shirt",
+      "date": "18-05-2021"
+    }
+  ]
+}
